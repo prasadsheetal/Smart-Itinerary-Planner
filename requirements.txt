@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+PyMySQL
+Flask-JWT
+Flask-Cors
+kafka-python
+pyspark
